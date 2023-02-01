@@ -1,0 +1,15 @@
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/Exercise1and2.csproj.AssemblyReference.cache
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/Exercise1and2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/Exercise1and2.AssemblyInfoInputs.cache
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/Exercise1and2.AssemblyInfo.cs
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/Exercise1and2.csproj.CoreCompileInputs.cache
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/bin/Debug/net6.0/Exercise1and2
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/bin/Debug/net6.0/Exercise1and2.deps.json
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/bin/Debug/net6.0/Exercise1and2.runtimeconfig.json
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/bin/Debug/net6.0/Exercise1and2.dll
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/bin/Debug/net6.0/Exercise1and2.pdb
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/Exercise1and2.dll
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/refint/Exercise1and2.dll
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/Exercise1and2.pdb
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/Exercise1and2.genruntimeconfig.cache
+/Users/luch/Desktop/Repos/Exercise1and2/Exercise1and2/obj/Debug/net6.0/ref/Exercise1and2.dll
